@@ -8,17 +8,12 @@ NLP (Natural Language Processing) is a field of AI that enables computers to und
 Objective : Analyze WhatsApp chat data to uncover patterns, sentiment, and frequently used words.
 
 Libraries Used:
-regex for advanced text pattern matching
-pandas for data manipulation and analysis
-numpy for numerical operations
-emoji for emoji handling
-collections.Counter for counting elements
-matplotlib.pyplot for creating visualizations
-wordcloud.WordCloud and wordcloud.STOPWORDS for generating word clouds
+![image](https://github.com/Shruu13/projects/assets/83166212/b5e24ca0-8a1a-4423-bdeb-448903c4bebc)
+
 
 # 3.Output
-Visualizations, such as bar charts showing message distribution and word clouds highlighting frequently used words.
-Insights into participants' engagement, sentiment, and communication patterns.
+![image](https://github.com/Shruu13/projects/assets/83166212/aee75bd2-db68-4bf1-a481-17a5ec960025)
+
 ![image](https://github.com/Shruu13/projects/assets/83166212/08c94e2c-76c7-4810-8029-0ef6655f5924)
 
 # 4.Benefits
